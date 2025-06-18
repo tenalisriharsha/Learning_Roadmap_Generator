@@ -1,0 +1,245 @@
+{
+  "cloud engineer": {
+    "beginner": [
+      {
+        "topic": "Linux Basics",
+        "resources": [
+          "YouTube - NetworkChuck Linux Basics",
+          "Coursera - Introduction to Linux (Free Audit)",
+          "edX - Linux Foundation Introduction to Linux"
+        ],
+        "tools": ["Ubuntu VM", "AWS Free Tier"]
+      },
+      {
+        "topic": "Networking Fundamentals",
+        "resources": [
+          "Cisco Networking Basics - YouTube",
+          "Coursera - The Bits and Bytes of Computer Networking"
+        ],
+        "tools": ["Packet Tracer", "AWS VPC"]
+      },
+      {
+        "topic": "Cloud Fundamentals",
+        "resources": [
+          "AWS Cloud Practitioner Essentials - YouTube",
+          "Google Cloud Digital Leader Training - Coursera"
+        ],
+        "tools": ["AWS Free Tier", "Google Cloud Free Tier"]
+      },
+      {
+        "topic": "AWS Core Services",
+        "resources": [
+          "freeCodeCamp - AWS Full Course",
+          "AWS Training - Getting Started with EC2, S3"
+        ],
+        "tools": ["AWS Console"]
+      },
+      {
+        "topic": "CI/CD Basics",
+        "resources": [
+          "GitHub Actions Intro - YouTube",
+          "Coursera - DevOps on AWS"
+        ],
+        "tools": ["GitHub", "AWS CodePipeline"]
+      }
+    ],
+    "intermediate": [
+      {
+        "topic": "Terraform and IAC",
+        "resources": [
+          "Terraform Crash Course - YouTube",
+          "HashiCorp Learn Terraform"
+        ],
+        "tools": ["Terraform CLI", "AWS Free Tier"]
+      },
+      {
+        "topic": "AWS CLI & SDKs",
+        "resources": [
+          "AWS CLI Hands-on - YouTube",
+          "AWS Boto3 SDK - Python"
+        ],
+        "tools": ["AWS CLI", "Boto3"]
+      },
+      {
+        "topic": "Serverless Computing",
+        "resources": [
+          "AWS Lambda Hands-on - YouTube",
+          "AWS Serverless Workshop"
+        ],
+        "tools": ["AWS Lambda", "API Gateway"]
+      },
+      {
+        "topic": "Monitoring and Logging",
+        "resources": [
+          "AWS CloudWatch Tutorials",
+          "freeCodeCamp - DevOps Monitoring"
+        ],
+        "tools": ["AWS CloudWatch", "Prometheus"]
+      },
+      {
+        "topic": "Cloud Security Basics",
+        "resources": [
+          "AWS Security Fundamentals - YouTube",
+          "Coursera - Introduction to Cyber Security"
+        ],
+        "tools": ["AWS IAM", "AWS Shield"]
+      }
+    ],
+    "advanced": [
+      {
+        "topic": "Kubernetes",
+        "resources": [
+          "Kubernetes Crash Course - freeCodeCamp",
+          "edX - Introduction to Kubernetes"
+        ],
+        "tools": ["Minikube", "EKS"]
+      },
+      {
+        "topic": "Cloud Architecture Design",
+        "resources": [
+          "AWS Well-Architected Framework - AWS Docs",
+          "Google Cloud Architecture Specialization - Coursera"
+        ],
+        "tools": ["Draw.io", "AWS Architecture Diagrams"]
+      },
+      {
+        "topic": "Cost Optimization",
+        "resources": [
+          "AWS Cost Optimization - YouTube",
+          "Google Cloud Billing Management"
+        ],
+        "tools": ["AWS Budgets", "AWS Pricing Calculator"]
+      }
+    ]
+  },
+
+  "data scientist": {
+    "beginner": [
+      {
+        "topic": "Python Programming",
+        "resources": [
+          "freeCodeCamp - Python Full Course",
+          "Coursera - Python for Everybody"
+        ],
+        "tools": ["Jupyter Notebook", "Google Colab"]
+      },
+      {
+        "topic": "Statistics & Probability",
+        "resources": [
+          "Khan Academy - Statistics",
+          "Coursera - Intro to Statistics"
+        ],
+        "tools": ["Jupyter", "NumPy"]
+      },
+      {
+        "topic": "Data Wrangling & Pandas",
+        "resources": [
+          "freeCodeCamp - Pandas Tutorial",
+          "Kaggle - Pandas Course"
+        ],
+        "tools": ["Pandas", "Kaggle Kernels"]
+      }
+    ],
+    "intermediate": [
+      {
+        "topic": "Machine Learning Basics",
+        "resources": [
+          "Andrew Ng ML Course - Coursera",
+          "freeCodeCamp - Machine Learning"
+        ],
+        "tools": ["Scikit-learn", "Jupyter"]
+      },
+      {
+        "topic": "Data Visualization",
+        "resources": [
+          "Matplotlib & Seaborn - YouTube",
+          "DataCamp - Data Viz Free Courses"
+        ],
+        "tools": ["Matplotlib", "Seaborn"]
+      },
+      {
+        "topic": "SQL for Data Science",
+        "resources": [
+          "Mode SQL Tutorial",
+          "Kaggle SQL Course"
+        ],
+        "tools": ["MySQL", "SQLite"]
+      }
+    ],
+    "advanced": [
+      {
+        "topic": "Deep Learning",
+        "resources": [
+          "Deep Learning Specialization - Coursera",
+          "YouTube - Deep Learning with PyTorch"
+        ],
+        "tools": ["TensorFlow", "PyTorch"]
+      },
+      {
+        "topic": "Big Data Tools",
+        "resources": [
+          "Hadoop & Spark Intro - YouTube",
+          "Coursera - Big Data Essentials"
+        ],
+        "tools": ["Apache Spark", "Hadoop"]
+      }
+    ]
+  },
+
+  "ai developer": {
+    "beginner": [
+      {
+        "topic": "Python & AI Libraries",
+        "resources": [
+          "Python Basics - freeCodeCamp",
+          "Introduction to NumPy & Pandas - YouTube"
+        ],
+        "tools": ["Google Colab", "Anaconda"]
+      },
+      {
+        "topic": "Math for AI (Linear Algebra, Calc)",
+        "resources": [
+          "Khan Academy - Linear Algebra",
+          "3Blue1Brown - Essence of Linear Algebra"
+        ],
+        "tools": ["Jupyter Notebook", "NumPy"]
+      }
+    ],
+    "intermediate": [
+      {
+        "topic": "ML Algorithms",
+        "resources": [
+          "Scikit-Learn Crash Course",
+          "ML Course by Andrew Ng"
+        ],
+        "tools": ["Scikit-learn"]
+      },
+      {
+        "topic": "Natural Language Processing (NLP)",
+        "resources": [
+          "Coursera - NLP Specialization",
+          "Hugging Face NLP Course"
+        ],
+        "tools": ["spaCy", "Transformers by Hugging Face"]
+      }
+    ],
+    "advanced": [
+      {
+        "topic": "Generative AI & LLMs",
+        "resources": [
+          "LangChain Crash Course",
+          "OpenAI GPT Tutorials - YouTube"
+        ],
+        "tools": ["OpenAI API", "LangChain", "Streamlit"]
+      },
+      {
+        "topic": "Model Deployment",
+        "resources": [
+          "FastAPI + Docker Tutorial - YouTube",
+          "ML Model Deployment - Full Course"
+        ],
+        "tools": ["Docker", "FastAPI", "Heroku"]
+      }
+    ]
+  }
+}

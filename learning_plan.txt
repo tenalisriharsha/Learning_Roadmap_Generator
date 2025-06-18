@@ -1,0 +1,45 @@
+📅 Week 1: Machine Learning Basics
+🕒 Suggested Study Time for the Week: 40 hours
+🗓 Daily Study Time: 8.00 hours per day
+   Day 1: Study Machine Learning Basics for 8.00 hours
+   Day 2: Study Machine Learning Basics for 8.00 hours
+   Day 3: Study Machine Learning Basics for 8.00 hours
+   Day 4: Study Machine Learning Basics for 8.00 hours
+   Day 5: Study Machine Learning Basics for 8.00 hours
+🔗 Recommended Resources:
+   - Andrew Ng ML Course - Coursera
+   - freeCodeCamp - Machine Learning
+🧰 Suggested Tools/Platforms:
+   - Scikit-learn
+   - Jupyter
+--------------------------------------------------
+📅 Week 2: Data Visualization
+🕒 Suggested Study Time for the Week: 40 hours
+🗓 Daily Study Time: 8.00 hours per day
+   Day 1: Study Data Visualization for 8.00 hours
+   Day 2: Study Data Visualization for 8.00 hours
+   Day 3: Study Data Visualization for 8.00 hours
+   Day 4: Study Data Visualization for 8.00 hours
+   Day 5: Study Data Visualization for 8.00 hours
+🔗 Recommended Resources:
+   - Matplotlib & Seaborn - YouTube
+   - DataCamp - Data Viz Free Courses
+🧰 Suggested Tools/Platforms:
+   - Matplotlib
+   - Seaborn
+--------------------------------------------------
+📅 Week 3: SQL for Data Science
+🕒 Suggested Study Time for the Week: 40 hours
+🗓 Daily Study Time: 8.00 hours per day
+   Day 1: Study SQL for Data Science for 8.00 hours
+   Day 2: Study SQL for Data Science for 8.00 hours
+   Day 3: Study SQL for Data Science for 8.00 hours
+   Day 4: Study SQL for Data Science for 8.00 hours
+   Day 5: Study SQL for Data Science for 8.00 hours
+🔗 Recommended Resources:
+   - Mode SQL Tutorial
+   - Kaggle SQL Course
+🧰 Suggested Tools/Platforms:
+   - MySQL
+   - SQLite
+--------------------------------------------------
